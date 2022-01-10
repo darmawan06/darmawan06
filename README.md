@@ -4,5 +4,5 @@
 </a>
 
 <a href="https://github.com/darmawan06/">
-  <img align="center" width = "350px " src="https://github-readme-stats.vercel.app/api?username=darmawan06&count_private=true&&theme=vue-dark" />
+  <img align="center" width = "350px " height ="350px" src="https://github-readme-stats.vercel.app/api?username=darmawan06&count_private=true&&theme=vue-dark" />
 </a>
