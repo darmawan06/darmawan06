@@ -1,6 +1,5 @@
 # Hai, i'm Dikdik Darmawan
 ### <li> Computer Science at Indonesia University of Education 👨‍🎓
-### <li> Freelance Web Development  🖥️
 ### <li> You want it ? you merge it.
 
 ####  A little more about my git  🦾
